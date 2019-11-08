@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098456260171",
+    "firebase_url": "https://algojichatapp.firebaseio.com",
+    "project_id": "algojichatapp",
+    "storage_bucket": "algojichatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098456260171:android:add9d9a318e8b965ac37ce",
+        "android_client_info": {
+          "package_name": "com.aakib78.algojichatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098456260171-d0ibdtfegfrk62ga20np2q8esl097r96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aakib78.algojichatapp",
+            "certificate_hash": "6ad6e4497e611669cea099c0b42ce20d081d4a97"
+          }
+        },
+        {
+          "client_id": "1098456260171-ovcslu4jne5q166d772svicgodp4kcnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxRNSMJRXRL5qN02xJMLwShUd9Padmp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098456260171-ovcslu4jne5q166d772svicgodp4kcnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
